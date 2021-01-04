@@ -1,2 +1,1 @@
-datadir: '/content/sleep.csv'
-filter: ['270']
+datadir: 'data/'
